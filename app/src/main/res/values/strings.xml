@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipe_detail_activity_label">RecipeDetailActivity</string>
+    <string name="error_message">Failed to load content</string>
+    <string name="error_message_btn">faild to get content   tap to refresh!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_view_text">empty recipe ingredients</string>
+    <string name="title_activity_tabbed_act">TabbedACT</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
